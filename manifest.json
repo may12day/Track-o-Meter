@@ -1,0 +1,14 @@
+{
+  "name": "India COVID-19 Tracker",
+  "version": "0.1",
+  "description": "Displays Confirmed, Active, Recovered and Death records in INDIA.",
+  "permissions": [
+    "history"
+  ],
+  "browser_action": {
+	"default_title": "COVID-19 Tracker",
+    "default_popup": "data.html",
+    "default_icon": "images/covid19.png"
+  },
+  "manifest_version": 2
+}
